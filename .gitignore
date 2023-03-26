@@ -1,2 +1,12 @@
 # Project exclude paths
 /out/
+/tasks/Controlador.html
+/tasks/DownloadWorker.html
+/tasks/package-frame.html
+/tasks/package-summary.html
+/tasks/package-tree.html
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/modules.xml
